@@ -60,5 +60,5 @@ Hint: The z-index can also be negative!
   border-radius: 999px;
   rotate: 280deg;
   position: fixed;
-  z-index: -2;
+  z-index: -1;
 }

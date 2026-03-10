@@ -25,6 +25,8 @@ body {
   padding: 10px 30px;
   position: fixed;
   top: 0;
+  z-index: 1;
+  width: 600px;
 }
 
 .header__subheading {
@@ -43,6 +45,7 @@ body {
  */
 .footer {
   height: 48px;
+  width: 550px;
   color: #ffffff;
   background: #370182;
   position: fixed;
@@ -97,5 +100,5 @@ body {
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.4);
   z-index: 10;
   position: sticky;
-  bottom: 0;
+  bottom: 50px;
 }
